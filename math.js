@@ -1,5 +1,4 @@
-var price1 = 25;
-var price2 = 33;
+var number = Math.random() * 100;
+var result = Math.round (number);
 
-var total = price1 + price2;
-console.log(total);
+console.log(result);
