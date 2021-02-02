@@ -39,5 +39,5 @@
 
 
 
-
-var
+var frindsAge = [12,23,34,12,23] 
+console.log(frindsAge.length);
